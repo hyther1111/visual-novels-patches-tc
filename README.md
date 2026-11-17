@@ -10,6 +10,20 @@
 
 ---
 
+## 📑 目錄 / Table of Contents
+
+- [📦 補丁列表 / Patch List](#patch-list)
+  - [どっちにするのっ？- Never Only Sisters -](https://github.com/hyther1111/visual-novels-patches-tc/releases/tag/%E3%81%A9%E3%81%A3%E3%81%A1%E3%81%AB%E3%81%99%E3%82%8B%E3%81%AE%E3%81%A3NeverOnlySisters)
+  - [Desire Flowers](https://github.com/hyther1111/visual-novels-patches-tc/releases/tag/DesireFlowers)
+  - [Stay. -Fragments of Memories-](https://github.com/hyther1111/visual-novels-patches-tc/releases/tag/StayFragmentsofMemories)
+  - [CircusLand I](https://github.com/hyther1111/visual-novels-patches-tc/releases/tag/CircusLandI)
+  - [神次元アイドル ネプテューヌPP](https://github.com/hyther1111/visual-novels-patches-tc/releases/tag/%E7%A5%9E%E6%AC%A1%E5%85%83%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%8D%E3%83%97%E3%83%86%E3%83%A5%E3%83%BC%E3%83%8CPP)
+- [🛠 通用說明 / General Notes](#general-notes)
+- [⚠️ 免責聲明 / Disclaimer](#disclaimer)
+
+---
+
+<a id="patch-list"></a>
 ## 📦 補丁列表 / Patch List
 
 點擊下方 **直接下載** 可立即下載 `.zip` 補丁包，或點擊 **Release 頁面** 查看發佈資訊。
@@ -24,6 +38,7 @@
 
 ---
 
+<a id="general-notes"></a>
 ## 🛠 通用說明 / General Notes
 
 1. **查看所有發佈版本**：前往 [Releases](https://github.com/hyther1111/visual-novels-patches-tc/releases) 頁面下載對應遊戲的 `.zip` 壓縮檔。
@@ -32,7 +47,3 @@
 
 ---
 
-## ⚠️ 免責聲明 / Disclaimer
-
-- 本儲存庫僅分享個人製作之翻譯與機能修正補丁，所有遊戲版權歸原開發商與發行商所有。
-- 若權利方認為本專案侵害權益，請聯繫移除。
