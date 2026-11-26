@@ -15,6 +15,8 @@
 ## 📑 目錄 / Table of Contents
 
 - [📦 補丁列表 / Patch List](#patch-list)
+  - [ぎりギリLOVE](https://github.com/hyther1111/visual-novels-patches-tc/releases/tag/%E3%81%8E%E3%82%8A%E3%82%AE%E3%83%AALOVE) (`Translation`)
+  - [この恋、5分で終わります。](https://github.com/hyther1111/visual-novels-patches-tc/releases/tag/%E3%81%93%E3%81%AE%E6%81%8B%E3%80%815%E5%88%86%E3%81%A7%E7%B5%82%E3%82%8F%E3%82%8A%E3%81%BE%E3%81%99%E3%80%82) (`Translation`)
   - [D.C.P.K.～ダ・カーポーカー～](https://github.com/hyther1111/visual-novels-patches-tc/releases/tag/D.C.P.K.%EF%BD%9E%E3%83%80%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9D%E3%83%BC%E3%82%AB%E3%83%BC%EF%BD%9E) (`Translation`)
   - [どっちにするのっ？- Never Only Sisters -](https://github.com/hyther1111/visual-novels-patches-tc/releases/tag/%E3%81%A9%E3%81%A3%E3%81%A1%E3%81%AB%E3%81%99%E3%82%8B%E3%81%AE%E3%81%A3NeverOnlySisters) (`Translation`)
   - [Four-leaf](https://github.com/hyther1111/visual-novels-patches-tc/releases/tag/Four-leaf) (`Patch`)
@@ -34,6 +36,8 @@
 
 | 遊戲名稱 | 類型 | 平台 / 引擎 | 補丁說明 | 下載連結 |
 | :--- | :---: | :---: | :--- | :--- |
+| **ぎりギリLOVE**<br>([VNDB](https://vndb.org/v6428)) | `Translation`<br>(日→繁中) | PC (`SVIU / CialloHook`) | 完整劇本與介面繁中化、透過 `CialloHook`（VFS 掛載＋Big5 `CP950` 轉碼＋`sviu_tc.1337` 執行期修補，不修改原檔）、支援於 `CialloHook.ini` 或遊戲內自由切換繁體字體與粗細縮放 | [⬇ 直接下載](https://github.com/hyther1111/visual-novels-patches-tc/releases/download/%E3%81%8E%E3%82%8A%E3%82%AE%E3%83%AALOVE/GIRILOVE_TC_Patch.zip) · [Release](https://github.com/hyther1111/visual-novels-patches-tc/releases/tag/%E3%81%8E%E3%82%8A%E3%82%AE%E3%83%AALOVE) |
+| **この恋、5分で終わります。**<br>([VNDB](https://vndb.org/v63577)) | `Translation`<br>(日→繁中) | PC (`TyranoScript / Electron`) | 全劇本（含 Good/Bad End）與系統介面繁中化、解包 `resources/app` 替換（原 `app.asar` 備份為 `.bak`）、內建按 `F2` 開啟繁體中文字體與字級樣式即時調整面板 | [⬇ 直接下載](https://github.com/hyther1111/visual-novels-patches-tc/releases/download/%E3%81%93%E3%81%AE%E6%81%8B%E3%80%815%E5%88%86%E3%81%A7%E7%B5%82%E3%82%8F%E3%82%8A%E3%81%BE%E3%81%99%E3%80%82/kono_koi_TC_Patch.zip) · [Release](https://github.com/hyther1111/visual-novels-patches-tc/releases/tag/%E3%81%93%E3%81%AE%E6%81%8B%E3%80%815%E5%88%86%E3%81%A7%E7%B5%82%E3%82%8F%E3%82%8A%E3%81%BE%E3%81%99%E3%80%82) |
 | **D.C.P.K.～ダ・カーポーカー～** | `Translation`<br>(日→繁中) | PC DVD (`DCPKDVD`) | 全劇本繁中化（25,005 框＋471 選項）、201 bytes EXE 差量修補（Big5 `CP950`＋免光碟）、本機建置專用字型（請勿用轉區工具啟動） | [⬇ 直接下載](https://github.com/hyther1111/visual-novels-patches-tc/releases/download/D.C.P.K.%EF%BD%9E%E3%83%80%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9D%E3%83%BC%E3%82%AB%E3%83%BC%EF%BD%9E/DCPK_TC_Patch.zip) · [Release](https://github.com/hyther1111/visual-novels-patches-tc/releases/tag/D.C.P.K.%EF%BD%9E%E3%83%80%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9D%E3%83%BC%E3%82%AB%E3%83%BC%EF%BD%9E) |
 | **どっちにするのっ？- Never Only Sisters -** | `Translation`<br>(日→繁中) | PC (`KiriKiri2`) | 完整劇本繁中化、粗體白字＋黑邊、開啟頂部選單列、新增 BGM 音量調整（需 Locale Emulator） | [⬇ 直接下載](https://github.com/hyther1111/visual-novels-patches-tc/releases/download/%E3%81%A9%E3%81%A3%E3%81%A1%E3%81%AB%E3%81%99%E3%82%8B%E3%81%AE%E3%81%A3NeverOnlySisters/NeverOnlySisters_TC_Patch.zip) · [Release](https://github.com/hyther1111/visual-novels-patches-tc/releases/tag/%E3%81%A9%E3%81%A3%E3%81%A1%E3%81%AB%E3%81%99%E3%82%8B%E3%81%AE%E3%81%A3NeverOnlySisters) |
 | **Four-leaf** | `Patch`<br>(簡→繁/修正) | PC (`YU-RIS`) | 簡轉繁修正補丁（基於 GPT-4o v1.0 補丁）：轉換 1,802 句對話、修復錯位壞行／空白、本機生成微軟正黑體 Bold 字型 | [⬇ 直接下載](https://github.com/hyther1111/visual-novels-patches-tc/releases/download/Four-leaf/Four_leaf_TC_Patch.zip) · [Release](https://github.com/hyther1111/visual-novels-patches-tc/releases/tag/Four-leaf) |
@@ -48,7 +52,7 @@
 ## 🛠 通用說明 / General Notes
 
 1. **查看所有發佈版本**：前往 [Releases](https://github.com/hyther1111/visual-novels-patches-tc/releases) 頁面下載對應遊戲的 `.zip` 壓縮檔。
-2. **備份原檔**：凡需覆蓋原版資料夾（如 `AdvData`、`gamedata`、`romdata`、`ysbin`）的補丁，安裝前請務必先備份原始檔案；僅外掛／附加封裝類（如 `patch.xp3`、`BepInEx`）則不會動到原版遊戲檔案。
+2. **備份原檔**：凡需覆蓋原版資料夾（如 `AdvData`、`gamedata`、`romdata`、`ysbin`、`resources/app.asar`）的補丁，安裝前請務必先備份原始檔案；僅外掛／附加封裝類（如 `patch.xp3`、`BepInEx`、`CialloHook`）則不會動到原版遊戲檔案。
 3. **日文語系環境**：部分 KiriKiri2 舊作（如《どっちにするのっ？》）需搭配 **Locale Emulator**（日本地區）啟動執行檔；已改寫為 Big5 的補丁（如《D.C.P.K.》）則請直接啟動，勿使用轉區工具。
 
 ---
